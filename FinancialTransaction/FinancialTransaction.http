@@ -1,0 +1,6 @@
+@FinancialTransaction_HostAddress = http://localhost:5075
+
+GET {{FinancialTransaction_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
